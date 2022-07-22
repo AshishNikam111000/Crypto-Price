@@ -1,0 +1,26 @@
+table,
+th,
+td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+.App {
+    padding: 10px;
+    text-align: center;
+
+    .Table {
+        width: 100%;
+
+        td {
+            padding: 10px;
+        }
+
+        thead {
+            position: sticky;
+            top: 0%;
+            background-color: white;
+        }
+
+    }
+}
