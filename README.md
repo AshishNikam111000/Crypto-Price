@@ -1,3 +1,4 @@
-# Delta Exchange Assignment
-1. run this commmand in terminal -> npm i && npm run start
-2. then wait for 10 - 12 seconds for result to show up.
+# Crypto Price
+1. Shows real-time crypto prices.
+2. Updates every 5 seconds.
+3. Implemented socket-programming.
