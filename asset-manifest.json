@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AshishNikam111000/Crypto-Price.git/static/css/main.f644bd29.css",
+    "main.js": "/AshishNikam111000/Crypto-Price.git/static/js/main.27cea2b6.js",
+    "static/js/787.3c30b94a.chunk.js": "/AshishNikam111000/Crypto-Price.git/static/js/787.3c30b94a.chunk.js",
+    "index.html": "/AshishNikam111000/Crypto-Price.git/index.html",
+    "main.f644bd29.css.map": "/AshishNikam111000/Crypto-Price.git/static/css/main.f644bd29.css.map",
+    "main.27cea2b6.js.map": "/AshishNikam111000/Crypto-Price.git/static/js/main.27cea2b6.js.map",
+    "787.3c30b94a.chunk.js.map": "/AshishNikam111000/Crypto-Price.git/static/js/787.3c30b94a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f644bd29.css",
+    "static/js/main.27cea2b6.js"
+  ]
+}
