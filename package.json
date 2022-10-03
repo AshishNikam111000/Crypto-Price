@@ -1,5 +1,6 @@
 {
-  "name": "delta_exchange_assignment",
+  "homepage": "https://github.com/AshishNikam111000/Crypto-Price.git",
+  "name": "crypto_price",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -37,6 +38,7 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^4.0.0",
     "sass": "^1.53.0"
   }
 }
